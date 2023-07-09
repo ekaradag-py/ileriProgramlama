@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmstrongSayiBulma", "WinFormsApp2\AmstrongSayiBulma.csproj", "{202CFC27-7F47-4064-8049-0DA579FC4AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "richTextBox", "richTextBox\richTextBox.csproj", "{C729683E-B547-42EB-94EE-2610DC745D6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{202CFC27-7F47-4064-8049-0DA579FC4AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{202CFC27-7F47-4064-8049-0DA579FC4AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{202CFC27-7F47-4064-8049-0DA579FC4AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C729683E-B547-42EB-94EE-2610DC745D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C729683E-B547-42EB-94EE-2610DC745D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C729683E-B547-42EB-94EE-2610DC745D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C729683E-B547-42EB-94EE-2610DC745D6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
