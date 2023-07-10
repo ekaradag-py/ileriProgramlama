@@ -18,7 +18,7 @@ namespace richTextBox
             string[] spliteText = readText.Split("\n");
             string selectText = spliteText.Max();
 
-            int totalNumbers = 0;
+            int totalNumbers = 0 ;
             int totalChars = 0;
             int totalTurkishChars = 0;
 

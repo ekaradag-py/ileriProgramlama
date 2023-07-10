@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmstrongSayiBulma", "WinFormsApp2\AmstrongSayiBulma.csproj", "{202CFC27-7F47-4064-8049-0DA579FC4AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmstrongSayiBulma", "WinFormsApp2\AmstrongSayiBulma.csproj", "{202CFC27-7F47-4064-8049-0DA579FC4AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "richTextBox", "richTextBox\richTextBox.csproj", "{C729683E-B547-42EB-94EE-2610DC745D6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "richTextBox", "richTextBox\richTextBox.csproj", "{C729683E-B547-42EB-94EE-2610DC745D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3", "Odev3\Odev3.csproj", "{B5EE962E-6794-4D08-898A-D6040F2ED543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C729683E-B547-42EB-94EE-2610DC745D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C729683E-B547-42EB-94EE-2610DC745D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C729683E-B547-42EB-94EE-2610DC745D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EE962E-6794-4D08-898A-D6040F2ED543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EE962E-6794-4D08-898A-D6040F2ED543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EE962E-6794-4D08-898A-D6040F2ED543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EE962E-6794-4D08-898A-D6040F2ED543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
